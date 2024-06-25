@@ -12,9 +12,9 @@ st.sidebar.success("Select a demo above.")
 st.markdown(
     """
     Đây là bài làm khóa luận tốt nghiệp được thực hiện bởi các sinh viên:\n
-    Nguyễn Phạm Ngọc Duy - 20133031  \n
-    Trì Hoài Lộc         - 20133063  \n
-    Project được xây dựng bằng Python và deploy trên Streamlit.
+     - Nguyễn Phạm Ngọc Duy - 20133031  \n
+     - Trì Hoài Lộc         - 20133063  \n
+    Project được xây dựng bằng Python và deploy trên Streamlit.io .
     ### Contact
     - Email: (kazr1582@gmail.com)
     - Github Website: (https://github.com/crytalwing/Classifying_reference_relationships_in_legal_documents)
