@@ -8,7 +8,7 @@ class tvpl_function:
     def __init__(self):
         self.pattern = 'aàảãáạăằẳẵắặâầẩẫấậeèẻẽéẹêềểễếệiìỉĩíịoòỏõóọôồổỗốộơớờởỡợuùủũúụưừửữứựyỳỷỹýỵđ'
 
-        self.words_en = enchant.request_dict("en_US")
+        self.words_en = enchant.Dict("en_US")
         
         self.specialCharset = '!"#$%&\'()*+,-./:;<=>?@[\]^_`{|}~'
 
