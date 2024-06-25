@@ -11,13 +11,13 @@ st.sidebar.success("Select a demo above.")
 
 st.markdown(
     """
-    Họ và tên: Nguyễn Phạm Ngọc Duy \n
-    MSSV: 20133031 \n
-    Đây là Project Khóa Luận Tốt Nghiệp. Project được xây dựng bằng Python và deploy trên Streamlit.
+    Đây là bài làm khóa luận tốt nghiệp được thực hiện bởi các sinh viên:
+    Nguyễn Phạm Ngọc Duy - 20133031  
+    Trì Hoài Lộc         - 20133063  
+    Project được xây dựng bằng Python và deploy trên Streamlit.
     ### Contact
     - Email: (kazr1582@gmail.com)
-    - Github: (https://github.com/crytalwing/DIPR430685_22_2_10)
-    - 🚨🚨🚨 Vì chưa fix được dung lượng upload file của github nên dùng tạm link drive, xin lỗi vì sự bất tiện này. 🚨🚨🚨
-    - Drive: (https://drive.google.com/drive/folders/154GGbscJlEtmd2WwPVx3pw7SaxmqDx_P?usp=sharing)
+    - Github Website: (https://github.com/crytalwing/Classifying_reference_relationships_in_legal_documents)
+    - Project: (https://github.com/crytalwing/kltn)
 """
 )
