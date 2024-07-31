@@ -8,4 +8,4 @@ pyvi==0.1.1
 scikit_learn==1.2.2
 streamlit==1.21.0
 tensorflow==2.14.0
-pyenchant==3.2.2
+tensorflow_intel==2.14.0
