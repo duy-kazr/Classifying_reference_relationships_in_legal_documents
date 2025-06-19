@@ -1,6 +1,6 @@
 # **Website tóm tắt văn bản báo chí và luật pháp**
 ## 1. Project Description
-Với sự phức tạp của hệ thống tài liệu trong lĩnh vực pháp luật, nhằm thuận tiện cho việc trích xuất các Nghị định/ Hiến pháp/ Thông tư ... và phân loại quan hệ dẫn chiếu giữa chúng với văn bản hiện hành, chúng tôi quyết định xây dựng một ứng dụng hỗ trợ cho việc trích xuất đối tượng tham chiếu và phân loại quan hệ dẫn chiếu.
+Với sự phức tạp của hệ thống tài liệu trong lĩnh vực pháp luật, nhằm thuận tiện cho việc trích xuất các Nghị định/ Hiến pháp/ Thông tư ... và phân loại quan hệ dẫn chiếu giữa chúng với văn bản hiện hành, chúng tôi quyết định xây dựng một ứng dụng hỗ trợ cho việc trích xuất đối tượng tham chiếu và phân loại quan hệ dẫn chiếu. Thay vì sửa dụng thư viện ```FastText``` có sẵn, chúng tôi tự xây dựng ```FastText``` dựa trên chính tập dữ liệu thu thập được để xây dựng model.
 
 Website có một số chức năng hữu ích như sau:
 1. Trích xuất các đối tượng trong văn bản pháp luật.
